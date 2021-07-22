@@ -33,6 +33,9 @@ dependencies:
   provider: ^4.3.3
   firebase_auth: ^0.20.0+1
   flutter_signin_button: ^1.1.0
+  appcenter: ^0.2.1
+  appcenter_analytics: ^0.2.1
+  appcenter_crashes: ^0.2.1
 
 dev_dependencies:
   flutter_test:
